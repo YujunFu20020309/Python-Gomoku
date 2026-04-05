@@ -1,2 +1,3 @@
-# Python-Gomoku
-一個用 Pygame 製作的五子棋遊戲，支援 AI 對戰一個用 Pygame 製作的五子棋遊戲，支援 AI 對戰
+# Gomoku
+The al using very simple logic,if you are not know well in gokumu,it is a nice choice to pratice
+### You need to pip install pygame in your terminal or cmd
